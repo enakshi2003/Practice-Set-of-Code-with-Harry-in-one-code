@@ -1,0 +1,74 @@
+#body{
+    background-color:aliceblue;
+    margin:10px;
+    padding:10px;
+    text-align: center;
+}
+#heading{
+    background-image: url("image/amazing.jpg");
+    background-repeat: no-repeat;
+    position:relative;
+    background-size:cover;
+    background-position:center;
+    padding:10px;
+    margin:10px;
+    text-align: center;
+    font-size: large;
+    color:honeydew;
+    font-family:'Times New Roman', Times, serif;
+}
+#polu{
+    text-align-last: center;
+    font-family:serif;
+}
+#pic{
+    text-align: center;
+    color: darkcyan;
+}
+#vid{
+    text-align: center;
+}
+#gog{
+    text-align: center;
+}
+button{
+    font-family: Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    border: 2px solid ;
+    border-color: khaki;
+    background:khaki;
+    color: rgb(0,0,200,0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding:3px 10px;
+    display:inline-block;
+    cursor:pointer;
+}
+table,th,td{
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid blueviolet;
+    border-collapse: separate;
+    padding: 10px;
+    border-spacing: 0;
+    border-color: brown;
+}
+th{
+    background-color:darkcyan ;
+}
+#tab{
+    background-color: mediumaquamarine;
+}
+#tab2{
+    background-color: rgb(157, 203, 200);
+}
+#tab3{
+    background-color: rgb(194, 189, 132);
+}
+#cap{
+    font-size:large;
+    font-weight: 700;
+    font-family: serif;
+}
